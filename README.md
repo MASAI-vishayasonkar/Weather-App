@@ -4,11 +4,11 @@ This is a weather application built using React and Tailwind CSS. It allows user
 
 ## Features
 
-- **Current Weather:** Display current weather conditions including temperature, humidity, wind speed, etc.
-- **Forecast:** View weather forecast for the upcoming days.
-- **Search:** Search for weather information by city or location.
+- **Current Weather:** Displays current weather conditions including temperature, humidity, wind speed, etc.
+- **Forecast:** Views the weather forecast for the upcoming days.
+- **Search:** Searches for weather information by city or location.
 - **Responsive Design:** Fully responsive layout suitable for desktop and mobile devices.
-- **Customizable UI:** Styled with Tailwind CSS for a clean and modern look.
+- **Customizable UI:** Styled with Tailwind CSS for a clean, modern, sleek look.
 
 ## Technologies Used
 
