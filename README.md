@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repository
    ```sh
    git clone https://github.com/your_username/your_repository.git
-   git clone https://github.com/uttammane1/Weather-App.git
+   git clone https://github.com/MASAI-vishayasonkar/Weather-App.git
 2. start the repository
    ```sh
    npm install
